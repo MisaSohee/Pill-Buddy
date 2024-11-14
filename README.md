@@ -388,7 +388,7 @@
 
 
 ### 약 정보 검색
-![필버디 약검색](https://github.com/user-attachments/assets/39a69041-6138-412f-9226-fbc45a320d57)
+![필버디 약검색 압축](https://github.com/user-attachments/assets/8ebcaf47-5a95-4b35-ac10-1ceddc6f96d6)
 
 ## 👬 팀 소개
 |                                        Backend                                         |                                        Backend                                         |                                        Backend                                         |                                        Backend                                         |                                        Backend                                         |
